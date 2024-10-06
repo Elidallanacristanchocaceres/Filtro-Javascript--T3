@@ -27,16 +27,39 @@ h2 {
     text-align: center; 
     justify-content: center;
 }
-
 .hero-item:hover {
     transform: scale(1.05);
 }
 
 .hero-item img {
-    width: 100%; /* Imagen ocupa todo el ancho del contenedor */
-    height: 200px; /* Altura fija para todos los cuadros de héroes */
-    object-fit: contain; /* Mantiene la relación de aspecto y asegura que toda la imagen sea visible */
-    border-radius: 5px; /* Bordes redondeados para las imágenes */
+    width: 100%; 
+    height: 200px; 
+    object-fit: contain; 
+    border-radius: 5px; 
 }
+
+.pagination {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+.page-button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: none;
+    background-color: #007BFF; 
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.page-button:hover {
+    background-color: #0056b3; 
+}
+
+
+
+
+
 
 

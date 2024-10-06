@@ -1,5 +1,7 @@
 const marvelApiUrl = '/marvel/api.json';  
 let allHeroes = [];
+let currentPage = 1; // Página actual
+const heroesPerPage = 3; // Héroes por página
 
 document.getElementById('marvel-button').addEventListener('click', () => {
   fetchHeroes(marvelApiUrl, 'MARVEL');
@@ -19,7 +21,9 @@ function fetchHeroes(apiUrl, type) {
     })
     .then(data => {
       allHeroes = type === 'MARVEL' ? data.MARVEL : data.DC; 
+      currentPage = 1; // Reiniciar la página al cargar nuevos héroes
       displayHeroes(allHeroes);
+      setupPagination(allHeroes.length);
     })
     .catch(error => {
       console.error('Hubo un problema con la solicitud Fetch:', error);
@@ -30,7 +34,11 @@ function displayHeroes(heroes) {
   const heroList = document.getElementById('hero-list');
   heroList.innerHTML = '';  
 
-  heroes.forEach(hero => {
+  const startIndex = (currentPage - 1) * heroesPerPage;
+  const endIndex = startIndex + heroesPerPage;
+  const heroesToDisplay = heroes.slice(startIndex, endIndex);
+
+  heroesToDisplay.forEach(hero => {
     const heroDiv = document.createElement('div');
     heroDiv.classList.add('hero-item');
 
@@ -59,5 +67,25 @@ function displayHeroes(heroes) {
   });
 }
 
+function setupPagination(totalHeroes) {
+  const pagination = document.getElementById('pagination');
+  pagination.innerHTML = ''; // Limpiar la paginación
+
+  const totalPages = Math.ceil(totalHeroes / heroesPerPage);
+
+  for (let i = 1; i <= totalPages; i++) {
+    const pageButton = document.createElement('button');
+    pageButton.textContent = i;
+    pageButton.className = 'page-button';
+    pageButton.addEventListener('click', () => {
+      currentPage = i;
+      displayHeroes(allHeroes);
+    });
+
+    pagination.appendChild(pageButton);
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
+  // Cualquier inicialización si es necesaria
 });
