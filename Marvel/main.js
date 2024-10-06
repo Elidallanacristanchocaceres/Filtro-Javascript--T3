@@ -33,30 +33,29 @@ function displayHeroes(heroes) {
   heroes.forEach(hero => {
     const heroDiv = document.createElement('div');
     heroDiv.classList.add('hero-item');
-    
+
     const heroName = document.createElement('h2');
     heroName.textContent = `Héroe: ${hero.Heroe || hero.nombre || 'Nombre no disponible'}`; 
+    heroDiv.appendChild(heroName);
 
     const heroDetails = `
       <p><strong>Nombre:</strong> ${hero.nombre || 'No disponible'}</p>
       <p><strong>Aparición:</strong> ${hero.Aparicion || hero.publicado || 'No disponible'}</p>
-      <p><strong>Biografía:</strong> ${hero.Biografia || 'No disponible'}</p>
-      <p><strong>Resistencia:</strong> ${hero.Resistencia || 'No disponible'}</p>
-      <p><strong>Fuerza-Ataque:</strong> ${hero['Fuerza-Ataque'] || 'No disponible'}</p>
+      <p><strong>Biografía:</strong> ${hero.biografia || 'No disponible'}</p>
+      <p><strong>Resistencia:</strong> ${hero.resistencia || 'No disponible'}</p>
+      <p><strong>Fuerza-Ataque:</strong> ${hero['fuerza_ataque'] || 'No disponible'}</p>
     `;
 
-    heroDiv.innerHTML = heroDetails; 
-    heroList.appendChild(heroDiv); 
+    heroDiv.innerHTML += heroDetails;
 
     if (hero.imagen) {
       const heroImage = document.createElement('img');
       heroImage.src = hero.imagen;
       heroImage.alt = `${hero.nombre} Imagen`;
-      heroImage.style.width = '100px';
       heroDiv.appendChild(heroImage); 
     }
 
-    heroDiv.appendChild(heroName); 
+    heroList.appendChild(heroDiv); 
   });
 }
 
