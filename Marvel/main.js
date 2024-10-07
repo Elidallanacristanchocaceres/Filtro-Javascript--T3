@@ -47,11 +47,11 @@ function displayHeroes(heroes) {
     heroDiv.appendChild(heroName);
 
     const heroDetails = `
-      <p><strong>Nombre:</strong> ${hero.nombre || 'No disponible'}</p>
+      <p><strong>Nombre:</strong> ${hero.nombre}</p>
       <p><strong>Aparición:</strong> ${hero.Aparicion || hero.publicado || 'No disponible'}</p>
-      <p><strong>Biografía:</strong> ${hero.biografia || 'No disponible'}</p>
-      <p><strong>Resistencia:</strong> ${hero.resistencia || 'No disponible'}</p>
-      <p><strong>Fuerza-Ataque:</strong> ${hero['fuerza_ataque'] || 'No disponible'}</p>
+      <p><strong>Biografía:</strong> ${hero.Biografia || 'No disponible'}</p>
+      <p><strong>Resistencia:</strong> ${hero.Resistencia || 'No disponible'}</p>
+      <p><strong>Fuerza-Ataque:</strong> ${hero.FuerzaAtaque || 'No disponible'}</p>
     `;
 
     heroDiv.innerHTML += heroDetails;

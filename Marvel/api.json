@@ -1,275 +1,369 @@
 {
     "MARVEL": [
-        {
-            "Heroe": "capitan-America",
-            "nombre": "Christopher Robert",
-            "publicado": "1941",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics.",
-            "Resistencia": "El dolor, heridas, daño fisico",
-            "Fuerza-Ataque": "510 Kg",
-            "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/05/hipertextual-avengers-endgame-futuro-capitan-america-2019781893-scaled.jpg?fit=2560%2C1600&quality=50&strip=all&ssl=1"
-        },
-        {
-            "Heroe": "Iron-man",
-            "nombre": "Anthony Edward Stark",
-            "Aparicion": "marzo de 1963",
-            "Biografia": "Iron Man es el personaje de superhéroe de Anthony Edward Tony Stark, un multimillonario magnate empresarial, filántropo estadounidense, playboy y un ingenioso científico e ingeniero, que dirige la empresa de fabricación de armas Industrias Stark.",
-            "Resistencia": "prácticamente indestructibles",
-            "Fuerza-Ataque": "Superfuerza, durabilidad y resistencia por armadura",
-            "imagen": "https://planetamarvel.net/wp-content/uploads/2022/12/Invincible-Iron-Man-1-2022-600x445.jpg"
-        },
-        {
-            "Heroe": "Hulk",
-            "nombre": "Bruce Banner",
-            "Aparicion": "mayo de 1962",
-            "Biografia": "Hulk fue Bruce Banner, un científico que estuvo expuesto a cantidades extremas de radiación gamma que alteró la estructura de su ADN y provocó que se convirtiera en un monstruo gigante",
-            "Resistencia": "resistencia increíble al daño físico",
-            "Fuerza-Ataque": "fuerza física aparentemente ilimitada",
-            "imagen": "https://www.mundodeportivo.com/alfabeta/hero/2024/09/hulk-bruce-banner.jpg?width=1200&aspect_ratio=16:9"
-        },
-        {
-            "Heroe": "Duende Verde",
-            "nombre": "Norman Osborn",
-            "Aparicion": "1990",
-            "Biografia": "El Duende Verde (de nombre real Norman Virgil Osborn) es un supervillano ficticio de Marvel Comics y el principal antagonista de la primera película de Spider-Man.",
-            "Resistencia": "curación",
-            "Fuerza-Ataque": "fuerza sobrehumana",
-            "imagen": "https://i.pinimg.com/564x/bd/63/22/bd632297cbea1328c94824cc3f1deed0.jpg"
-        },
-        {
-            "Heroe": "Guardian rojo",
-            "nombre": "David Harbour",
-            "Aparicion": "agosto 1967",
-            "Biografia": "El Guardián Rojo o Capitán Rusia es el nombre de varios superhéroes de cómic en el universo de Marvel Comics.",
-            "Resistencia": "ruptura y perforación por elementos cortopunzantes",
-            "Fuerza-Ataque": "normal",
-            "imagen": "https://lh3.googleusercontent.com/proxy/Ll2lQ3_Qxw0eSa5xGATA_fXSfJmRfiib4_B-XvYF2QlT7oEd30Lz_DWEy9NMsLSsGJtV7TxA8irdNLbjDkY1BXACqaMwnyEoYTlQZCO0PPIVoPwMuqoR25Qy6C1Rpbi9KtVpKblkdqZZRA"
-        },
-        {
-            "Heroe": "Thor Odinson",
-            "nombre": "Christopher Hemsworth",
-            "Aparicion": "2011",
-            "Biografia": "Thor es el hijo de Odín, señor de los dioses de Asgard, y de Jord, que también es conocida como Gea, la más anciana diosa de la Tierra.",
-            "Resistencia": "puede levantar más de 100 toneladas",
-            "Fuerza-Ataque": "15% de Fuerza de Ataque",
-            "imagen": "https://img.goodfon.com/wallpaper/big/f/cb/thor-thor-odinson-marvel.webp"
-        },
-        {
-            "Heroe": "Spider-man",
-            "nombre": "Peter Parker",
-            "Aparicion": "agosto de 1962",
-            "Biografia": "Spider-Man, traducido en ocasiones como el Hombre Araña, es un superhéroe ficticio creado por los estadounidenses Stan Lee y Steve Ditko, e introducido en el cómic Amazing Fantasy n.",
-            "Resistencia": "Resistencia Sobrehumana",
-            "Fuerza-Ataque": "10 y 25 toneladas con normalidad",
-            "imagen": "https://cdn.mos.cms.futurecdn.net/j9cNFVPqdsiSDVTW82iK3C.jpg"
-        },
-        {
-            "Heroe": "Doctor Octopus",
-            "nombre": "Alfred Molina",
-            "Aparicion": "julio 1963",
-            "Biografia": "El Doctor Octopus o Doc Ock es un personaje del universo Marvel, donde es uno de los grandes enemigos de Spider-Man (el Hombre Araña).",
-            "Resistencia": "duradero y resistente al calor y al magnetismo",
-            "Fuerza-Ataque": "es capaz de levantar 3 toneladas",
-            "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/11/Doctor-Octopus.jpg?fit=1500%2C1000&quality=50&strip=all&ssl=1"
-        },
-        {
-            "Heroe": "Viuda negra",
-            "nombre": "Natalia Alianovna",
-            "Aparicion": "2010",
-            "Biografia": "La personaje de Viuda Negra es presentada como una espía de la Unión Soviética hasta que deserta a los Estados Unidos.",
-            "Resistencia": "resistente al envejecimiento y las enfermedades",
-            "Fuerza-Ataque": "posee un veneno 15 veces más potente",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LBCC_2013_-_Black_Widow_%2811027758405%29_%28cropped%29.jpg"
-        },
-        {
-            "Heroe": "Scarlet Witch",
-            "nombre": "Wanda Maximoff",
-            "Aparicion": "1964",
-            "Biografia": "es un personaje que también lleva el alias de la Bruja Escarlata. Originalmente, es uno de los personajes más poderosos del mundo Marvel, alterando la probabilidad y eventualmente incluso la realidad.",
-            "Resistencia": "la magia de Scarlet Witch es capaz de alterar lo que sucede en diferentes dimensiones",
-            "Fuerza-Ataque": "magia del caos",
-            "imagen": "https://moviesroom.pl/storage/media/6561/scarlet-witch.jpg?v=1722936041"
-        },
-        {
-            "Heroe": "Kitty Pryde",
-            "nombre": "Kathryn Beckwith",
-            "Aparicion": "1980",
-            "Biografia": "Katherine Anne, conocida como Kitty Pryde, es miembro de los X-Men. Su poder principal es ser intangible, y esto se puede transferir a las personas u objetos que estén en contacto con ella.",
-            "Fuerza-Ataque": "puede correr hacia adelante casi en cualquier momento para ignorar el daño recibido",
-            "imagen": "https://i.pinimg.com/564x/ce/c3/f0/cec3f0e62e1aa41b4bbf5e6345e3e24c.jpg"
-        },
-        {
-            "Heroe": "Storm",
-            "nombre": "Ororo Munroe",
-            "Aparicion": "1975",
-            "Biografia": "Storm es un miembro de los X-Men, y una de sus representantes más poderosos y populares. Es hija de una princesa tribal de Kenya y un padre fotógrafo americano.",
-            "Resistencia": "Resistencia a la telepatía",
-            "Fuerza-Ataque": "Está propulsado por un turborreactor que alcanza una velocidad de Mach 0,8 (casi 1.000 km/h)",
-            "imagen": "https://i.pinimg.com/enabled_hi/564x/c8/45/7e/c8457e2eab54b79f3187588f7e5286f9.jpg"
-        },
-        {
-            "Heroe": "Thanos",
-            "nombre": "Thanos The Titan",
-            "Aparicion": "1973",
-            "Biografia": "Este supervillano es más conocido por ser el mayor antagonista para los Avengers, tanto en el mundo del comic como en el MCU.",
-            "Resistencia": "Inmortal",
-            "Fuerza-Ataque": "rapidez, resistencia y agilidad sobrehumana",
-            "imagen": "https://p4.wallpaperbetter.com/wallpaper/191/235/664/thanos-avengers-infinity-war-4k-wallpaper-preview.jpg"
-        },
-        {
-            "Heroe": "Magneto",
-            "nombre": "Max Eisenhardt",
-            "Aparicion": "1980",
-            "Biografia": "es el alter ego de Magneto, quien también se conoce como Erik Lehnsherr. Es uno de los mutantes más poderosos, y tiene una afiliación directa como villano de los X-Men.",
-            "Resistencia": "Crea un casco contra ataques telepáticos",
-            "Fuerza-Ataque": "Manipulación del magnetismo",
-            "imagen": "https://i.pinimg.com/564x/2d/98/d4/2d98d40e0eff070147f518f3298e2c79.jpg"
-        },
-        {
-            "Heroe": "Wolverine",
-            "nombre": "James Howlett",
-            "Aparicion": "1974",
-            "Biografia": "El personaje está asociado con los X-Men, y es un mutante. Cuenta con un sentido casi animal, sus habilidades físicas son sobrehumanas, y se regenera muy rápidamente.",
-            "Resistencia": "Regeneración y ralentización del envejecimiento",
-            "Fuerza-Ataque": "durabilidad, resistencia, agilidad, destreza y tiempo de reacción mejorados",
-            "imagen": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/08/deadpool-wolverine-hugh-jackman-mask-reveal.jpg"
+    {
+        "Heroe": "Capitán América",
+        "nombre": "Christopher Robert",
+        "publicado": "1941",
+        "Biografia": "Superhéroe de Marvel Comics conocido por su fuerza y liderazgo.",
+        "Resistencia": "Resistente al dolor y daño físico.",
+        "FuerzaAtaque": "510 Kg",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/05/hipertextual-avengers-endgame-futuro-capitan-america-2019781893-scaled.jpg?fit=2560%2C1600&quality=50&strip=all&ssl=1",
+        "puntajes": {"fuerza": 94, "resistencia": 76, "velocidad": 87}
+    },
+    {
+        "Heroe": "Iron Man",
+        "nombre": "Anthony Edward Stark",
+        "Aparicion": "marzo de 1963",
+        "Biografia": "Multimillonario y genio inventor, usa una armadura para luchar.",
+        "Resistencia": "Prácticamente indestructibles.",
+        "FuerzaAtaque": "Superfuerza gracias a su armadura.",
+        "imagen": "https://planetamarvel.net/wp-content/uploads/2022/12/Invincible-Iron-Man-1-2022-600x445.jpg",
+        "puntajes": {"fuerza": 78, "resistencia": 87, "velocidad": 40}
+    },
+    {
+        "Heroe": "Hulk",
+        "nombre": "Bruce Banner",
+        "Aparicion": "mayo de 1962",
+        "Biografia": "Científico que se transforma en un gigante verde tras una explosión.",
+        "Resistencia": "Increíble resistencia al daño físico.",
+        "FuerzaAtaque": "Fuerza física aparentemente ilimitada.",
+        "imagen": "https://www.mundodeportivo.com/alfabeta/hero/2024/09/hulk-bruce-banner.jpg?width=1200&aspect_ratio=16:9",
+        "puntajes": {"fuerza": 100, "resistencia": 94, "velocidad": 70}
+    },
+    {
+        "Heroe": "Duende Verde",
+        "nombre": "Norman Osborn",
+        "Aparicion": "1990",
+        "Biografia": "Villano y enemigo de Spider-Man con habilidades sobrehumanas.",
+        "Resistencia": "Curación rápida.",
+        "FuerzaAtaque": "Fuerza sobrehumana.",
+        "imagen": "https://i.pinimg.com/564x/bd/63/22/bd632297cbea1328c94824cc3f1deed0.jpg",
+        "puntajes": {"fuerza": 64, "resistencia": 72, "velocidad": 78}
+    },
+    {
+        "Heroe": "Guardián Rojo",
+        "nombre": "David Harbour",
+        "Aparicion": "agosto 1967",
+        "Biografia": "Varios personajes que asumen el manto de este superhéroe en Marvel.",
+        "Resistencia": "Resistente a ataques cortopunzantes.",
+        "FuerzaAtaque": "Normal.",
+        "imagen": "https://lh3.googleusercontent.com/proxy/Ll2lQ3_Qxw0eSa5xGATA_fXSfJmRfiib4_B-XvYF2QlT7oEd30Lz_DWEy9NMsLSsGJtV7TxA8irdNLbjDkY1BXACqaMwnyEoYTlQZCO0PPIVoPwMuqoR25Qy6C1Rpbi9KtVpKblkdqZZRA",
+        "puntajes": {"fuerza": 84, "resistencia": 76, "velocidad": 74}
+    },
+    {
+        "Heroe": "Thor Odinson",
+        "nombre": "Christopher Hemsworth",
+        "Aparicion": "2011",
+        "Biografia": "Dios de Asgard y uno de los guerreros más poderosos.",
+        "Resistencia": "Puede levantar más de 100 toneladas.",
+        "FuerzaAtaque": "15% de Fuerza de Ataque.",
+        "imagen": "https://img.goodfon.com/wallpaper/big/f/cb/thor-thor-odinson-marvel.webp",
+        "puntajes": {"fuerza": 100, "resistencia": 86, "velocidad": 78}
+    },
+    {
+        "Heroe": "Spider-Man",
+        "nombre": "Peter Parker",
+        "Aparicion": "agosto de 1962",
+        "Biografia": "Joven que adquiere habilidades arácnidas tras una picadura de araña radiactiva.",
+        "Resistencia": "Sobrehumana.",
+        "FuerzaAtaque": "10 a 25 toneladas.",
+        "imagen": "https://cdn.mos.cms.futurecdn.net/j9cNFVPqdsiSDVTW82iK3C.jpg",
+        "puntajes": {"fuerza": 90, "resistencia": 82, "velocidad": 80}
+    },
+    {
+        "Heroe": "Doctor Octopus",
+        "nombre": "Alfred Molina",
+        "Aparicion": "julio 1963",
+        "Biografia": "Científico con brazos mecánicos que se convierte en enemigo de Spider-Man.",
+        "Resistencia": "Duradero y resistente al calor.",
+        "FuerzaAtaque": "Puede levantar 3 toneladas.",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2020/11/Doctor-Octopus.jpg?fit=1500%2C1000&quality=50&strip=all&ssl=1",
+        "puntajes": {"fuerza": 68, "resistencia": 56, "velocidad": 70}
+    },
+    {
+        "Heroe": "Viuda Negra",
+        "nombre": "Natalia Alianovna",
+        "Aparicion": "2010",
+        "Biografia": "Ex espía soviética convertida en heroína, experta en combate.",
+        "Resistencia": "Resistente al envejecimiento.",
+        "FuerzaAtaque": "Posee un veneno potente.",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e4/LBCC_2013_-_Black_Widow_%2811027758405%29_%28cropped%29.jpg",
+        "puntajes": {"fuerza": 76, "resistencia": 78, "velocidad": 64}
+    },
+    {
+        "Heroe": "Scarlet Witch",
+        "nombre": "Wanda Maximoff",
+        "Aparicion": "1964",
+        "Biografia": "Héroe con la capacidad de alterar la realidad y manipular la magia.",
+        "Resistencia": "Capaz de alterar dimensiones.",
+        "FuerzaAtaque": "Magia del caos.",
+        "imagen": "https://moviesroom.pl/storage/media/6561/scarlet-witch.jpg?v=1722936041",
+        "puntajes": {"fuerza": 76, "resistencia": 70, "velocidad": 87}
+    },
+    {
+        "Heroe": "Kitty Pryde",
+        "nombre": "Kathryn Beckwith",
+        "Aparicion": "1980",
+        "Biografia": "Miembro de los X-Men con el poder de ser intangible.",
+        "FuerzaAtaque": "Ignora daño recibido.",
+        "imagen": "https://i.pinimg.com/564x/ce/c3/f0/cec3f0e62e1aa41b4bbf5e6345e3e24c.jpg",
+        "puntajes": {"fuerza": 58, "resistencia": 60, "velocidad": 66}
+    },
+    {
+        "Heroe": "Storm",
+        "nombre": "Ororo Munroe",
+        "Aparicion": "1975",
+        "Biografia": "Poderosa mutante y líder de los X-Men, capaz de controlar el clima.",
+        "Resistencia": "Resistencia a la telepatía.",
+        "FuerzaAtaque": "Velocidad de casi 1.000 km/h.",
+        "imagen": "https://i.pinimg.com/enabled_hi/564x/c8/45/7e/c8457e2eab54b79f3187588f7e5286f9.jpg",
+        "puntajes": {"fuerza": 72, "resistencia": 76, "velocidad": 66}
+    },
+    {
+        "Heroe": "Thanos",
+        "nombre": "Thanos The Titan",
+        "Aparicion": "1973",
+        "Biografia": "Antagonista principal de los Avengers, busca las Gemas del Infinito.",
+        "Resistencia": "Inmortal.",
+        "FuerzaAtaque": "Agilidad y resistencia sobrehumana.",
+        "imagen": "https://s.yimg.com/ny/api/res/1.2/2pZT.yCqEBD1F.ceNk_h5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en_US/News/TheWrap/Here8217s_What_Happened_to_Thanos-ee76234a8272b969a6c3d61fb159b163",
+        "puntajes": {"fuerza": 94, "resistencia": 97, "velocidad": 54}
+    },
+    {
+        "Heroe": "Daredevil",
+        "nombre": "Matt Murdock",
+        "Aparicion": "abril 1964",
+        "Biografia": "Abogado ciego que lucha contra el crimen en Hell's Kitchen.",
+        "Resistencia": "Resistente a la manipulación mental.",
+        "FuerzaAtaque": "Capaz de levantar hasta 300 Kg.",
+        "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/07/comics-daredevil-2023-3097206.jpg?tf=3840x",
+        "puntajes": {"fuerza": 76, "resistencia": 74, "velocidad": 70}
+    },
+    {
+        "Heroe": "Black Panther",
+        "nombre": "T'Challa",
+        "Aparicion": "1966",
+        "Biografia": "Rey de Wakanda, experto en combate y con habilidades mejoradas.",
+        "Resistencia": "Piel resistente gracias a la hierba en forma de corazón.",
+        "FuerzaAtaque": "Puede levantar 700 Kg.",
+        "imagen": "https://lumiere-a.akamaihd.net/v1/images/h_blackpanther_mobile_19754_57fe2288.jpeg?region=0%2C0%2C640%2C480",
+        "puntajes": {"fuerza": 88, "resistencia": 90, "velocidad": 80}
+    }
+]
+,
+
+"DC": [
+    {
+        "Heroe": "Batman",
+        "nombre": "Bruce Wayne",
+        "publicado": "1939",
+        "Biografia": "Superhéroe creado por Bob Kane y Bill Finger.",
+        "Resistencia": "resistencia a la mayor parte de las enfermedades",
+        "FuerzaAtaque": "puede soportar ataques con armas cortas",
+        "imagen": "https://www.ws-trend.de/cdn/shop/articles/dc-comics-batman.webp?v=1723954862",
+        "puntajes": {
+            "fuerza": 100,
+            "resistencia": 94,
+            "velocidad": 90
         }
-    ],
-    "DC": [
-        {
-            "Heroe": "Batman",
-            "nombre": "Bruce Wayne",
-            "publicado": "1939",
-            "Biografia": "es un superhéroe ficticio creado por el artista Bob Kane y el escritor Bill Finger.",
-            "Resistencia": "resistencia a la mayor parte de las enfermedades",
-            "Fuerza-Ataque": "puede soportar ataques con armas cortas",
-            "imagen": "https://www.ws-trend.de/cdn/shop/articles/dc-comics-batman.webp?v=1723954862"
-        },
-        {
-            "Heroe": "Superman",
-            "nombre": "Kal-El",
-            "publicado": "1938",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics. Su creador es Jerry Siegel.",
-            "Resistencia": "invulnerabilidad, longevidad",
-            "Fuerza-Ataque": "superfuerza",
-            "imagen": "https://www.ws-trend.de/cdn/shop/articles/superman.webp?v=1723954875"
-        },
-        {
-            "Heroe": "Wonder Woman",
-            "nombre": "Diana Prince",
-            "publicado": "1941",
-            "Biografia": "es una superhéroe ficticia que aparece en los cómics publicados por DC Comics.",
-            "Resistencia": "alta resistencia física",
-            "Fuerza-Ataque": "puede volar y posee fuerza sobrehumana",
-            "imagen": "https://i0.wp.com/wipy.tv/wp-content/uploads/2020/01/Nueva-imagen-de-Wonder-Woman-es-terror%C3%ADfica-1.jpg?fit=1000%2C600&ssl=1"
-        },
-        {
-            "Heroe": "Green Lantern",
-            "nombre": "Hal Jordan",
-            "publicado": "1940",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics publicados por DC Comics.",
-            "Resistencia": "dura varios años",
-            "Fuerza-Ataque": "explotar a sus enemigos con su voluntad",
-            "imagen": "https://images.bauerhosting.com/legacy/empire-tmdb/films/44912/images/gulyiqtyuzFRJCnvNwD6Z786kQi.jpg?ar=16:9&fit=crop&crop=top"
-        },
-        {
-            "Heroe": "Flash",
-            "nombre": "Barry Allen",
-            "publicado": "1956",
-            "Biografia": "es un superhéroe ficticio creado por el escritor Robert Kanigher y el artista Carmine Infantino. Apareció por primera vez en Showcase #4.",
-            "Resistencia": "aumenta la velocidad",
-            "Fuerza-Ataque": "velocidad de reacción",
-            "imagen": "https://www.mundodeportivo.com/alfabeta/hero/2024/03/the-flash-james-gunn-1.jpg?width=1200"
-        },
-        {
-            "Heroe": "Aquaman",
-            "nombre": "Arthur Curry",
-            "publicado": "1941",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics estadounidenses publicados por DC Comics.",
-            "Resistencia": "buceo profundo y manipulación de agua",
-            "Fuerza-Ataque": "puede comunicarse con la vida marina",
-            "imagen": "https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/07/aquaman-2-release-date-1-550x309.jpg"
-        },
-        {
-            "Heroe": "Green Arrow",
-            "nombre": "Oliver Queen",
-            "publicado": "1941",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics publicados por DC Comics.",
-            "Resistencia": "resistencia física y habilidad con el arco",
-            "Fuerza-Ataque": "donde se requiere puntería",
-            "imagen": "https://assets1.ignimgs.com/2015/09/02/arrow1280jpg-9f7a32_160w.jpg?width=1280"
-        },
-        {
-            "Heroe": "Cyborg",
-            "nombre": "Victor Stone",
-            "publicado": "1980",
-            "Biografia": "es un superhéroe ficticio creado por el escritor Marv Wolfman y el artista George Pérez.",
-            "Resistencia": "en su forma humana",
-            "Fuerza-Ataque": "mejorado por su tecnología",
-            "imagen": "https://media.wired.com/photos/59549a2038978176dacc64b4/master/pass/Cyborg.jpg"
-        },
-        {
-            "Heroe": "Hawkgirl",
-            "nombre": "Shiera Sanders Hall",
-            "publicado": "1940",
-            "Biografia": "es un personaje ficticio que aparece en los cómics publicados por DC Comics.",
-            "Resistencia": "alta resistencia",
-            "Fuerza-Ataque": "fuerza sobrehumana",
-            "imagen": "https://cdn.mos.cms.futurecdn.net/sjrVFgnA6B4e6DWtvkPJFC-1200-80.jpg"
-        },
-        {
-            "Heroe": "Black Canary",
-            "nombre": "Dinah Lance",
-            "publicado": "1940",
-            "Biografia": "es un personaje ficticio de los cómics publicados por DC Comics.",
-            "Resistencia": "alta resistencia física",
-            "Fuerza-Ataque": "gritos de canario negro",
-            "imagen": "https://cdn.britannica.com/18/196918-050-B778BEFA/Katie-Cassidy-Arrow-still-Black-Canary.jpg?w=300&h=169&c=crop"
-        },
-        {
-            "Heroe": "Catwoman",
-            "nombre": "Selina Kyle",
-            "publicado": "1940",
-            "Biografia": "es un personaje ficticio de los cómics publicados por DC Comics.",
-            "Resistencia": "agilidad mejorada",
-            "Fuerza-Ataque": "puede saltar y trepar rápidamente",
-            "imagen": "https://i.pinimg.com/enabled_hi/564x/59/09/ec/5909ec045578f354ad4475ebe14b4f66.jpg"
-        },
-        {
-            "Heroe": "Raven",
-            "nombre": "Rachel Roth",
-            "publicado": "1980",
-            "Biografia": "es un personaje ficticio que aparece en los cómics de DC Comics.",
-            "Resistencia": "control sobre la energía",
-            "Fuerza-Ataque": "telepatía",
-            "imagen": "https://i.pinimg.com/564x/81/15/fa/8115faa3d2945c2c65cd5b5c4b369e2a.jpg"
-        },
-        {
-            "Heroe": "Martian Manhunter",
-            "nombre": "J'onn J'onzz",
-            "publicado": "1955",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics de DC Comics. Es un miembro de la Liga de la Justicia.",
-            "Resistencia": "inmunidad a enfermedades",
-            "Fuerza-Ataque": "alta resistencia",
-            "imagen": "https://149455152.v2.pressablecdn.com/wp-content/uploads/2016/10/Supergirl-Martian-Manhunter-Reveal.jpg"
-        },
-        {
-            "Heroe": "Shazam",
-            "nombre": "Billy Batson",
-            "publicado": "1939",
-            "Biografia": "es un superhéroe ficticio que aparece en los cómics de DC Comics.",
-            "Resistencia": "potencia del dios",
-            "Fuerza-Ataque": "fuerza divina",
-            "imagen": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/04/04095039/Shazam_ok.jpg"
-        },
-        {
-            "Heroe": "Mujer Maravilla",
-            "nombre": "Diana de Temyscira",
-            "publicado": "1941",
-            "Biografia": "Mujer Maravilla es una mujer delgada con el pelo largo negro al hombro y ojos azules, de entre las a amazonas y cualquier mujer sobresalta su belleza por poseer la apariencia de diosa como Afrodita.",
-            "Resistencia": "resistencia de una semidiosa",
-            "Fuerza-Ataque": "Fuerza sobrehumana",
-            "imagen": "https://www.chiapasparalelo.com/wp-content/uploads/2017/08/Wonder-Woman-Movie-Sexism-Feminism.jpg"
+    },
+    {
+        "Heroe": "Superman",
+        "nombre": "Kal-El",
+        "publicado": "1938",
+        "Biografia": "Superhéroe creado por Jerry Siegel.",
+        "Resistencia": "invulnerabilidad, longevidad",
+        "FuerzaAtaque": "superfuerza",
+        "imagen": "https://www.ws-trend.de/cdn/shop/articles/superman.webp?v=1723954875",
+        "puntajes": {
+            "fuerza": 96,
+            "resistencia": 85,
+            "velocidad": 96
         }
-    ]
+    },
+    {
+        "Heroe": "Wonder Woman",
+        "nombre": "Diana Prince",
+        "publicado": "1941",
+        "Biografia": "Superhéroe de DC Comics.",
+        "Resistencia": "alta resistencia física",
+        "FuerzaAtaque": "puede volar y posee fuerza sobrehumana",
+        "imagen": "https://i0.wp.com/wipy.tv/wp-content/uploads/2020/01/Nueva-imagen-de-Wonder-Woman-es-terror%C3%ADfica-1.jpg?fit=1000%2C600&ssl=1",
+        "puntajes": {
+            "fuerza": 87,
+            "resistencia": 66,
+            "velocidad": 80
+        }
+    },
+    {
+        "Heroe": "Green Lantern",
+        "nombre": "Hal Jordan",
+        "publicado": "1940",
+        "Biografia": "Superhéroe de DC Comics.",
+        "Resistencia": "dura varios años",
+        "FuerzaAtaque": "explotar a sus enemigos con su voluntad",
+        "imagen": "https://images.bauerhosting.com/legacy/empire-tmdb/films/44912/images/gulyiqtyuzFRJCnvNwD6Z786kQi.jpg?ar=16:9&fit=crop&crop=top",
+        "puntajes": {
+            "fuerza": 84,
+            "resistencia": 86,
+            "velocidad": 45
+        }
+    },
+    {
+        "Heroe": "Flash",
+        "nombre": "Barry Allen",
+        "publicado": "1956",
+        "Biografia": "Superhéroe creado por Robert Kanigher y Carmine Infantino.",
+        "Resistencia": "aumenta la velocidad",
+        "FuerzaAtaque": "velocidad de reacción",
+        "imagen": "https://www.mundodeportivo.com/alfabeta/hero/2024/03/the-flash-james-gunn-1.jpg?width=1200",
+        "puntajes": {
+            "fuerza": 90,
+            "resistencia": 96,
+            "velocidad": 100
+        }
+    },
+    {
+        "Heroe": "Aquaman",
+        "nombre": "Arthur Curry",
+        "publicado": "1941",
+        "Biografia": "Superhéroe de DC Comics.",
+        "Resistencia": "buceo profundo y manipulación de agua",
+        "FuerzaAtaque": "puede comunicarse con la vida marina",
+        "imagen": "https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/07/aquaman-2-release-date-1-550x309.jpg",
+        "puntajes": {
+            "fuerza": 88,
+            "resistencia": 68,
+            "velocidad": 87
+        }
+    },
+    {
+        "Heroe": "Green Arrow",
+        "nombre": "Oliver Queen",
+        "publicado": "1941",
+        "Biografia": "Superhéroe de DC Comics.",
+        "Resistencia": "resistencia física y habilidad con el arco",
+        "FuerzaAtaque": "donde se requiere puntería",
+        "imagen": "https://assets1.ignimgs.com/2015/09/02/arrow1280jpg-9f7a32_160w.jpg?width=1280",
+        "puntajes": {
+            "fuerza": 40,
+            "resistencia": 61,
+            "velocidad": 58
+        }
+    },
+    {
+        "Heroe": "Cyborg",
+        "nombre": "Victor Stone",
+        "publicado": "1980",
+        "Biografia": "Superhéroe creado por Marv Wolfman y George Pérez.",
+        "Resistencia": "en su forma humana",
+        "FuerzaAtaque": "mejorado por su tecnología",
+        "imagen": "https://media.wired.com/photos/59549a2038978176dacc64b4/master/pass/Cyborg.jpg",
+        "puntajes": {
+            "fuerza": 74,
+            "resistencia": 70,
+            "velocidad": 63
+        }
+    },
+    {
+        "Heroe": "Hawkgirl",
+        "nombre": "Shiera Sanders Hall",
+        "publicado": "1940",
+        "Biografia": "Personaje de DC Comics.",
+        "Resistencia": "alta resistencia",
+        "FuerzaAtaque": "fuerza sobrehumana",
+        "imagen": "https://cdn.mos.cms.futurecdn.net/sjrVFgnA6B4e6DWtvkPJFC-1200-80.jpg",
+        "puntajes": {
+            "fuerza": 58,
+            "resistencia": 63,
+            "velocidad": 76
+        }
+    },
+    {
+        "Heroe": "Black Canary",
+        "nombre": "Dinah Lance",
+        "publicado": "1940",
+        "Biografia": "Personaje de DC Comics.",
+        "Resistencia": "alta resistencia física",
+        "FuerzaAtaque": "gritos de canario negro",
+        "imagen": "https://cdn.britannica.com/18/196918-050-B778BEFA/Katie-Cassidy-Arrow-still-Black-Canary.jpg?w=300&h=169&c=crop",
+        "puntajes": {
+            "fuerza": 73,
+            "resistencia": 65,
+            "velocidad": 87
+        }
+    },
+    {
+        "Heroe": "Catwoman",
+        "nombre": "Selina Kyle",
+        "publicado": "1940",
+        "Biografia": "Personaje de DC Comics.",
+        "Resistencia": "agilidad mejorada",
+        "FuerzaAtaque": "puede saltar y trepar rápidamente",
+        "imagen": "https://i.pinimg.com/enabled_hi/564x/59/09/ec/5909ec045578f354ad4475ebe14b4f66.jpg",
+        "puntajes": {
+            "fuerza": 94,
+            "resistencia": 68,
+            "velocidad": 56
+        }
+    },
+    {
+        "Heroe": "Raven",
+        "nombre": "Rachel Roth",
+        "publicado": "1980",
+        "Biografia": "Personaje de DC Comics.",
+        "Resistencia": "control sobre la energía",
+        "FuerzaAtaque": "telepatía",
+        "imagen": "https://i.pinimg.com/564x/81/15/fa/8115faa3d2945c2c65cd5b5c4b369e2a.jpg",
+        "puntajes": {
+            "fuerza": 88,
+            "resistencia": 73,
+            "velocidad": 64
+        }
+    },
+    {
+        "Heroe": "Martian Manhunter",
+        "nombre": "J'onn J'onzz",
+        "publicado": "1955",
+        "Biografia": "Superhéroe de DC Comics, miembro de la Liga de la Justicia.",
+        "Resistencia": "inmunidad a enfermedades",
+        "FuerzaAtaque": "poderes telequinéticos",
+        "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/62f987e1-c5f0-41cb-8721-da6df1b4a1d6/dfodsc6-1842ff65-f69a-4355-8a88-aac78711f236.png/v1/fill/w_1280,h_1280,q_80,strp/martian_manhunter___the_last_son_of_mars_by_r3drum81_dfodsc6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzYyZjk4N2UxLWM1ZjAtNDFjYi04NzIxLWRhNmRmMWI0YTFkNlwvZGZvZHNjNi0xODQyZmY2NS1mNjlhLTQzNTUtOGE4OC1hYWM3ODcxMWYyMzYucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1DJwNYZ7XoRLxkCrYL26_Tu587o6Tx3rgPzD8SiQMQk",
+        "puntajes": {
+            "fuerza": 80,
+            "resistencia": 92,
+            "velocidad": 70
+        }
+    },
+    {
+        "Heroe": "Green Lantern",
+        "nombre": "John Stewart",
+        "publicado": "1971",
+        "Biografia": "Superhéroe de DC Comics y uno de los Green Lantern más conocidos.",
+        "Resistencia": "alta resistencia y durabilidad",
+        "FuerzaAtaque": "potencial para crear energía constructiva",
+        "imagen": "https://www.hollywoodreporter.com/wp-content/uploads/2016/03/greenlantern2011_18.jpg",
+        "puntajes": {
+            "fuerza": 78,
+            "resistencia": 88,
+            "velocidad": 60
+        }
+    },
+    {
+        "Heroe": "Shazam",
+        "nombre": "Billy Batson",
+        "publicado": "1939",
+        "Biografia": "Un joven que puede transformarse en un poderoso superhéroe al pronunciar la palabra 'Shazam'.",
+        "Resistencia": "alta resistencia y durabilidad",
+        "FuerzaAtaque": "fuerza sobrehumana derivada de varios dioses",
+        "imagen": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/04/04095039/Shazam_ok.jpg",
+        "puntajes": {
+            "fuerza": 90,
+            "resistencia": 85,
+            "velocidad": 70
+        }
+    }
+]
+
+
 }
